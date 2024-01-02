@@ -20,7 +20,7 @@ export default function Index() {
               Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create
               connections with your users as you engage in genuine discussion.
             </p>
-            <button className="mt-6 cursor-pointer rounded-full bg-white px-16 py-3 text-xs leading-[1.125rem] text-violet shadow-[1px_3px_5px_0px_rgba(0,0,0,0.27)] hover:bg-soft-magenta hover:text-white lg:py-4 lg:text-[1.125rem] lg:leading-[1.6875rem]">
+            <button className="mt-6 cursor-pointer rounded-full bg-white px-16 py-3 font-poppins text-xs leading-[1.125rem] text-violet shadow-[1px_3px_5px_0px_rgba(0,0,0,0.27)] hover:bg-soft-magenta hover:text-white lg:py-4 lg:text-[1.125rem] lg:leading-[1.6875rem]">
               Register
             </button>
           </div>
