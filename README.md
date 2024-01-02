@@ -1,10 +1,10 @@
-# Four card feature section
+# Huddle landing page with single introductory section
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Four card feature section](#four-card-feature-section)
+- [Huddle landing page with single introductory section](#huddle-landing-page-with-single-introductory-section)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -20,17 +20,18 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
+- View the optimal layout for the page depending on their device's screen size
+- See hover states for all interactive elements on the page
 
 ### Screenshots
 
-![](./screenshot1.jpg)
-![](./screenshot2.jpg)
+![](./screenshot1.png)
+![](./screenshot2.png)
 
 ### Links
 
-- Solution URL: [https://github.com/tatasadi/four-card-feature-section](https://github.com/tatasadi/four-card-feature-section)
-- Live Site URL: [https://four-card-feature-section-ta.vercel.app](https://four-card-feature-section-ta.vercel.app)
+- Solution URL: [https://github.com/tatasadi/huddle-landing-page](https://github.com/tatasadi/huddle-landing-page)
+- Live Site URL: [https://huddle-landing-page-ta.vercel.app](https://huddle-landing-page-ta.vercel.app)
 
 ## My process
 
@@ -38,7 +39,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Remix](https://remix.run/) - React framework
