@@ -26,13 +26,13 @@ export default function Index() {
           </div>
         </div>
         <div className="mt-20 flex items-center justify-center gap-4 lg:self-end">
-          <a className="social-link" href="http://facebook.com">
+          <a className="social-link" href="http://facebook.com" aria-label="Facebook">
             <FaFacebookF />
           </a>
-          <a className="social-link" href="http://twitter.com">
+          <a className="social-link" href="http://twitter.com" aria-label="Twitter">
             <FaTwitter />
           </a>
-          <a className="social-link" href="http://instagram.com">
+          <a className="social-link" href="http://instagram.com" aria-label="Instagram">
             <FaInstagram />
           </a>
         </div>
