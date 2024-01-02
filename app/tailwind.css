@@ -4,6 +4,10 @@
 
 @layer utilities {
   .footer-link {
-    @apply cursor-pointer underline;
+    @apply cursor-pointer font-bold text-soft-magenta underline;
+  }
+
+  .social-link {
+    @apply flex h-8 w-8 cursor-pointer items-center justify-center rounded-full border hover:border-soft-magenta hover:text-soft-magenta;
   }
 }

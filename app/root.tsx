@@ -29,7 +29,7 @@ export default function App() {
         <Meta />
         <Links />
       </head>
-      <body className="flex min-h-screen flex-col items-center justify-center font-open-sans">
+      <body className="flex min-h-screen flex-col items-center justify-center bg-violet bg-[url('/images/bg-mobile.svg')] bg-cover bg-no-repeat font-open-sans text-white lg:bg-[url('/images/bg-desktop.svg')]">
         <Outlet />
         <Footer className="m-4 mt-auto" />
         <ScrollRestoration />
